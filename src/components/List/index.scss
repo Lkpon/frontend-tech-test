@@ -1,0 +1,71 @@
+.customdiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  place-items: center;
+  margin: 20px;
+  left: 23px;
+  top: 127px;
+  width: 1234px;
+  height: 233px;
+  border: 5px solid;
+  background: #ffffff;
+  background-blend-mode: normal;
+}
+.customElement {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 1250px;
+  height: 150px;
+}
+.image {
+  margin-left: 20px;
+  left: 60px;
+  top: 158px;
+  width: 245px;
+  height: 180px;
+  border: 1px solid;
+}
+.name {
+  left: 349px;
+  top: 158px;
+  width: 606px;
+  height: 29px;
+  font-family: "Amazon Ember";
+  font-size: 24px;
+  font-weight: 400;
+  margin: auto;
+}
+.description {
+  left: 350px;
+  top: 207px;
+  max-width: 637px;
+  max-height: 72px;
+  color: black;
+  font-family: Inter;
+  font-size: 14px;
+  font-weight: 400;
+  margin: auto;
+  overflow: hidden;
+}
+.More {
+  text-align: center;
+  display: block;
+  width: 130px;
+  height: 31px;
+  border-radius: 2px;
+  background: #264a9e;
+  background-blend-mode: normal;
+  box-shadow: 7px 5px 4px black;
+  color: #ffffff;
+  font-family: "Agency FB";
+  font-size: 18px;
+  font-stretch: condensed;
+  font-weight: 400;
+}
+p {
+  text-align: center;
+}
